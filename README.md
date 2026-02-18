@@ -75,6 +75,6 @@ Me considero un apasionado por la tecnología, con una mentalidad proactiva y or
 ## 📫 Contacto
 
 * 📧 **Email:** rafaelherreracha@gmail.com
-* 💼 **LinkedIn:** [Rafael Herrera Chávez](https://www.linkedin.com/in/rafael-herrera-ch%C3%A1vez/)
+* 💼 **LinkedIn:** [Rafael Herrera Chávez](https://www.linkedin.com/in/rafaelherrerachavez/)
 * 📱 **Teléfono:** 664-47-90-67
 * 🚗 **Disponibilidad:** Vehículo propio
