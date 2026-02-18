@@ -2,9 +2,9 @@
 
 ### 🛡️ Analista SOC | Desarrollador Web en transición a Ciberseguridad
 
-Soy un desarrollador de software con experiencia en desarrollo web, actualmente iniciando mi trayectoria profesional en el mundo de la ciberseguridad. Me considero un apasionado por la tecnología, con una mentalidad proactiva y orientada al aprendizaje continuo.
+Soy un desarrollador de software con experiencia en desarrollo web, actualmente especializándome en el mundo de la ciberseguridad. Para complementar mi perfil técnico, me encuentro cursando ASIR (Administración de Sistemas Informáticos en Red) junto con un Máster en Ciberseguridad.
 
-Cuento con habilidades sólidas en programación, resolución de problemas y trabajo en equipo. Busco oportunidades para aplicar mis conocimientos en entornos reales, contribuir a la protección de sistemas y seguir desarrollándome como profesional en el ámbito de la seguridad informática.
+Me considero un apasionado por la tecnología, con una mentalidad proactiva y orientada al aprendizaje continuo. Cuento con habilidades sólidas en programación, resolución de problemas y trabajo en equipo. Busco oportunidades para aplicar mis conocimientos en entornos reales, contribuir a la protección de sistemas y seguir desarrollándome como profesional en el ámbito de la seguridad informática.
 
 ---
 
